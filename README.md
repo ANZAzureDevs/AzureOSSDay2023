@@ -9,15 +9,14 @@ We are also celebrating Azure Open Source Day 2023 across Australia and New Zeal
 
 ## Cloud Skills Challenge
 
-Compete in our Open Source and Serverless Cloud Skills Challenge for the chance to win swag and prizes! The Challenge will be running from 10 March until 7 April and you will be able to pre-register to compete from 1 March. 
+Compete in our Open Source and Serverless Cloud Skills Challenge to deepen your skills and earn bragging rights with your mates!
 
-Link coming soon!
+The Challenge will be running from 10 March until 7 April 2023 and you will be able to pre-register to compete from 1 March. 
+
+Open and bookmark this page: https://aka.ms/ServerlessAndOSSChallenge
 
 ## Celebrate with your local community!
 
 A range of local user groups will be helping us to celebrate Azure Open Source Day 2023. You can connect with these groups to learn more:
 
-- Details
-- to
-- be
-- confirmed.
+Group details to be confirmed.
